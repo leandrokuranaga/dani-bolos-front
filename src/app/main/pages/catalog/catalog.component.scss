@@ -1,0 +1,13 @@
+.catalog-content-internal {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mat-card {
+  margin: 30px;
+  width: 300px;
+}
+
+.catalog-content-internal mat-card {
+  margin: 10px;
+}
